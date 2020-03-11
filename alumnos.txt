@@ -1,0 +1,6 @@
+
+ 1	Iturrios	Carlos	98	
+ 2	Alcaraz 	Luis	96	
+ 3	Lopez	Mario	98	
+ 4	Robledo	marlene	78	
+ 5	Arduino	lop	96	
